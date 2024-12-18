@@ -5,3 +5,5 @@ It has two activities: MainActivity and MainActivity2
 
 MainActivity fetches paginated data from remote but does not cache locally.
 MainActivity does both.
+
+Other porject containing pagination are https://github.com/Jeff-Emuveyan/traction
